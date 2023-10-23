@@ -2,7 +2,7 @@ Microsserviços são uma abordagem arquitetural de desenvolvimento de software n
 Cada microsserviço é uma unidade autônoma que pode ser desenvolvida, implantada e dimensionada de forma independente. 
 Esses serviços interagem uns com os outros por meio de APIs (Interfaces de Programação de Aplicativos) ou outros mecanismos de comunicação.
 
-
+Link do vídeo: https://youtu.be/9Nic_EhRCyo
 
 
 
