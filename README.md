@@ -5,5 +5,9 @@ Esses serviços interagem uns com os outros por meio de APIs (Interfaces de Prog
 Link do vídeo: https://youtu.be/9Nic_EhRCyo
 
 
-
-
+|         MICROSSERVIÇO        |           MONOLÍTICO        |
+| :-------------------------:  | :-------------------------: | 
+| Distribuido                  | Centralizado                | 
+| Escopo menor e bem definido  | Escopo grande e geral       | 
+| Independentes                | Totalmente acoplado         |
+| Tecnologias independentes    | Tecnologia centralizada     | 
